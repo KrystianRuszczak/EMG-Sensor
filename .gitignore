@@ -1,3 +1,5 @@
+.gitignore
+
 EMG_sensor-backups/
 
 fp-lib-table
